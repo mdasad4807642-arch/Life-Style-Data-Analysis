@@ -45,3 +45,4 @@ Understand correlation between Diets, Workouts & Calories Burn
 Add predictive analytics (forecasting calories burned)
 Integrate with live fitness tracker data
 Include user goal achievement analysis. 
+![Dashboard]https://github.com/mdasad4807642-arch/Life-Style-Data-Analysis/blob/main/Screenshot%202025-11-17%20165117.png
