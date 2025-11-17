@@ -27,7 +27,7 @@ Show summary indicators at the top:
 💧 Avg Water Intake
 💪 Avg BMI
 ❤️ Avg Heart Rate
- 
+
 Target Audience : 
  A personal Health and Fitness Coach trainer will use this dashboard to monitor their performances & provided with integrated insights to guide smarter fitness decisions.
 📈 Scope
